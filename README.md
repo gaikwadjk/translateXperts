@@ -27,6 +27,24 @@
    ## vnet :
  ![vnet](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/45f2d78e-7745-41f0-acd2-bfdd901f4eed)
    ## virtual machine :
+  ![vm](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/2a0d9bad-2baa-4c2e-a754-c10756c36e26)
+   ## container registry :
+   ![container registry](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/10a03c7d-a722-4ca8-92d5-f80cc5aa8739)
+   ## container instance :
+   ![container instance](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/469e7c0e-6719-46f9-927a-a84cc2c360e8)
+   ## website home page :
+   ![home](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/543f81c5-f4aa-4b10-9f7f-5d06593d50d9)
+   ## website about page :
+   ![about](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/7bca68f7-4547-4128-bd89-8d5360539d9d)
+   ## website service page :
+   ![services](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/382d460b-aba8-4755-8bbf-ff723f2db320)
+   ## website contact page :
+   ![contact](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/d95e742a-abe2-45ee-8f1b-3512f7f10767)
+
+
+
+
+
   
    
  
