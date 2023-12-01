@@ -20,10 +20,15 @@
    #### 1. Docker : it containerized my website using Docker to encapsulate the website's components,ensuring consistency across different envionments.docker simplifies the deployment process and minimizes potential conflicts by packaging the application and its dependence into a standaredized unit.
    #### 2. Azure Container Registry(ACR) : To store and manage Docker images,i utilized Azure container registry.ACR provides a secure and scalable solution for storing container images,enabling seamless integration with azure sevices.
    #### 3. Azure Virtual Machines : I utilized azure VMs to host and run my portfolio website. azure VMs provide a scalable and customizable infrasrtucture solution,allowing me to configure and manage virtual machines based on the specific needs of my application.
-   #### 4. Azure cognitive services : computer vision i implemented the computer vision service from azure cognitive services to add powerful image analysis capabilities to my portfolio website this service uses state of the art machine learning models to analyze and interpret visual content in images. 
+   #### 4. Azure cognitive services : computer vision i implemented the computer vision service from azure cognitive services to add powerful image analysis capabilities to my portfolio website this service uses state of the art machine learning models to analyze and interpret visual content in images.
+
 
  # Screenshot :
+   ## vnet :
  ![vnet](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/45f2d78e-7745-41f0-acd2-bfdd901f4eed)
+   ## virtual machine :
+  
+   
  
    
   
