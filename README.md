@@ -1,4 +1,4 @@
-# KoDeal-project
+ # KoDeal-project
 # Portfolio Website 
  ## Name - Jyoti kakasaheb Gaikwad
 ## Project Title - Corporate Business Website.
@@ -10,7 +10,7 @@
 # Project Description 
 ### The website has 4 sections about the business.
 #### 1. Home :
-#####it contains Action,brand ,success,ourstory, and We Are A Young And Creative Company & We
+##### it contains Action,brand ,success,ourstory, and We Are A Young And Creative Company & We
 Offer You Fresh Ideas.
 
 
