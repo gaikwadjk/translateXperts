@@ -17,8 +17,7 @@
 # Language used : 
    ## CSS,HTML,Javascript,cloud services.
 # Azure Services 
-   ## 1. Docker : 
-    ###### it containerized my website using Docker to encapsulate the website's components,ensuring consistency across different envionments.docker simplifies the deployment process and minimizes potential conflicts by packaging the application and its dependence into a standaredized unit
+   #### 1. Docker :  it containerized my website using Docker to encapsulate the website's components,ensuring consistency across different envionments.docker simplifies the deployment process and minimizes potential conflicts by packaging the application and its dependence into a standaredized unit
   
 
 
