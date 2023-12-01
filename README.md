@@ -8,6 +8,8 @@
 
 # Aim of Project : The aim of this project was Our corporate business website is designed to showcase the cutting-edge solutions and services that industy landscape.
 # Project Description 
-### The website has 4 sections about the business #### 1.
+### The website has 4 sections about the business.
+#### 1. Home : it contains Action,brand ,success,ourstory, and We Are A Young And Creative Company & We
+Offer You Fresh Ideas.
 
 
