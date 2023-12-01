@@ -15,12 +15,14 @@
   ### 3. Services : My service it will display the information of related to the services which will offered, how we do it and why to choose us
   ### 4. Contact : It will display contact information email,phone number ,etc.
 # Language used : 
-   ## CSS,HTML,Javascript,cloud services.
+   ## Frontend CSS,HTML,Javascript,cloud services.
 # Azure Services 
    #### 1. Docker : it containerized my website using Docker to encapsulate the website's components,ensuring consistency across different envionments.docker simplifies the deployment process and minimizes potential conflicts by packaging the application and its dependence into a standaredized unit.
    #### 2. Azure Container Registry(ACR) : To store and manage Docker images,i utilized Azure container registry.ACR provides a secure and scalable solution for storing container images,enabling seamless integration with azure sevices.
    #### 3. Azure Virtual Machines : I utilized azure VMs to host and run my portfolio website. azure VMs provide a scalable and customizable infrasrtucture solution,allowing me to configure and manage virtual machines based on the specific needs of my application.
-   #### 4. Azure container instance :  
+   #### 4. Azure cognitive services : computer vision i implemented the computer vision service from azure cognitive services to add powerful image analysis capabilities to my portfolio website this service uses state of the art machine learning models to analyze and interpret visual content in images. 
+
+ # Screenshot: 
    
   
 
