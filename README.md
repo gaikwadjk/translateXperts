@@ -23,7 +23,7 @@
    #### 4. Azure cognitive services : computer vision i implemented the computer vision service from azure cognitive services to add powerful image analysis capabilities to my portfolio website this service uses state of the art machine learning models to analyze and interpret visual content in images. 
 
  # Screenshot :
-    #### 
+    #### ![vnet](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/45f2d78e-7745-41f0-acd2-bfdd901f4eed)
    
   
 
