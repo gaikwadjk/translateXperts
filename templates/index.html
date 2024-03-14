@@ -8,39 +8,100 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
-      /* Your existing styles */
+      body {
+        font-family: 'Oswald', sans-serif;
+        background-color: #e4f0f5; /* Soothing blue background */
+        transition: background-color 0.5s; /* Smooth transition for background color change */
+      }
+
+      .container {
+        padding-top: 2rem;
+        animation: fadeIn 1s; /* Fade-in animation when the page loads */
+      }
+
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+
+      h1 {
+        text-align: center;
+        color: #285e8e; /* Dark blue color for contrast */
+        text-shadow: 2px 2px 4px #aaa; /* Subtle text shadow for depth */
+      }
+
+      .form-group {
+        margin-bottom: 1rem;
+      }
+
+      .form-control, .btn-success {
+        border-radius: 0.25rem;
+        box-shadow: 2px 2px 5px #ccc; /* Drop shadow for form elements */
+      }
+
+      .btn-success {
+        background-color: #198754;
+        transition: transform 0.2s; /* Animation on click */
+      }
+
+      .btn-success:active {
+        transform: scale(0.98); /* Slightly scale down the button when clicked */
+      }
+
+      .table {
+        margin-top: 2rem;
+        box-shadow: 3px 3px 6px #bbb; /* Drop shadow for the table */
+      }
+
+      .row {
+        margin-top: 2rem;
+      }
+
+      .col-md-6 {
+        padding: 1rem;
+        background-color: #fff; /* White background for content areas */
+        border: 1px solid #dee2e6;
+        border-radius: 0.25rem;
+        box-shadow: 3px 3px 6px #ccc; /* Consistent drop shadow for both columns */
+        transition: all 0.3s; /* Smooth transition for hover effects */
+      }
+
+      .col-md-6:hover {
+        transform: translateY(-5px); /* Slight raise effect on hover */
+        box-shadow: 5px 5px 10px #bbb; /* Enhanced shadow on hover */
+      }
     </style>
     <title>Translator</title>
 </head>
 <body>
     <div class="container">
-        <h1>Vox</h1>
+        <h1>TranslateXperts</h1>
+        <div>TranslatExperts is an innovative application designed to bridge language barriers with ease and precision. It serves as a digital polyglot, offering users the ability to convert text from one language to another seamlessly. Whether for personal use, educational purposes, or professional communication, TranslatExperts utilizes advanced linguistic algorithms to ensure accurate and contextually relevant translations.</div>
         <div class="row">
-            <!-- Column for the translation form -->
             <div class="col-md-6">
+                <!-- Translation form -->
                 <form method="POST">
-                    <div class="form-group">
-                        <textarea name="text" cols="20" rows="10" class="form-control" placeholder="Enter some text"></textarea>
-                    </div>
-                    <div class="form-group">
-                        <label for="language">Language:</label>
-                        <select name="language" class="form-control">
-                            <option value="en">English</option>
-                            <option value="it">Italian</option>
-                            <option value="ja">Japanese</option>
-                            <option value="ru">Russian</option>
-                            <option value="de">German</option>
-                            <option value="hi">Hindi</option>
-                        </select>
-                    </div>
-                    <div>
-                        <button type="submit" class="btn btn-success">Translate!</button>
-                    </div>
-                </form>
+                  <div class="form-group">
+                      <textarea name="text" cols="20" rows="10" class="form-control" placeholder="Enter some text"></textarea>
+                  </div>
+                  <div class="form-group">
+                      <label for="language">Language:</label>
+                      <select name="language" class="form-control">
+                          <option value="en">English</option>
+                          <option value="it">Italian</option>
+                          <option value="ja">Japanese</option>
+                          <option value="ru">Russian</option>
+                          <option value="de">German</option>
+                          <option value="hi">Hindi</option>
+                      </select>
+                  </div>
+                  <div>
+                      <button type="submit" class="btn btn-success">Translate!</button>
+                  </div>
+              </form>
             </div>
-
-            <!-- Column for recent searches -->
             <div class="col-md-6">
+                <!-- Recent search table -->
                 <h2>Recent Search</h2>
                 <table class="table">
                     <thead>
@@ -65,3 +126,4 @@
     </div>
 </body>
 </html>
+
