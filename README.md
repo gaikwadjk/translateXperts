@@ -3,7 +3,7 @@
   ### Name -  Jyoti kakasaheb Gaikwad
   ### Project Title - Corporate Business Website.
   ### Project Demo Link :
-  <a href="http://dnsurl.cbh8d7ehf9cxa6at.eastus.azurecontainer.io/">dnsurl.cbh8d7ehf9cxa6at.eastus.azurecontainer.io</a>
+  <a href="https://translatexpert.azurewebsites.net">https://translatexpert.azurewebsites.net</a>
   ### Project Video Demo Link :
    <a href="https://drive.google.com/file/d/1Qlm1YOdI-j2snbl-EM8FGMb-DodVUjVE/view?usp=drive_link/">https://drive.google.com/file/d/1Qlm1YOdI-j2snbl-EM8FGMb-DodVUjVE/view?usp=drive_link</a>
 
@@ -42,6 +42,9 @@
    ![services](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/382d460b-aba8-4755-8bbf-ff723f2db320)
    ## website contact page :
    ![contact](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/d95e742a-abe2-45ee-8f1b-3512f7f10767)
+
+
+   https://github.com/AnkeetaGupta/flask-ai-translation/
 
 
 
