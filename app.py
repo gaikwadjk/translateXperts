@@ -67,7 +67,7 @@ def index_post():
     translated_text = translator_response[0]['translations'][0]['text']
 
     # store in the Database
-    sql = "INSERT INTO histroy (transated_text, original_text, target_language) VALUES (%s, %s, %s)"
+    sql = "INSERT INTO history (translated_text, original_text, target_language) VALUES (%s, %s, %s)"
     val = (translated_text, original_text, target_language)
     mycursor.execute(sql, val)
 
