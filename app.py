@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 mydb = mysql.connector.connect(
   host="translator-app.mysql.database.azure.com",
-  user="redblack",
+  user="redblack@translator-app",
   password="Password#123",
   database="ai"
 )
@@ -20,7 +20,7 @@ mycursor = mydb.cursor()
 
 @app.route('/', methods=['GET'])
 def index():
-    mycursor.execute("SELECT * FROM histroy")
+    mycursor.execute("SELECT * FROM history")
 
     myresult = mycursor.fetchall()
 
