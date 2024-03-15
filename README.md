@@ -1,5 +1,4 @@
-# KoDeal-project.
-# Corporate business website.
+# Microsoft-future-ready-talent-virtual internship-project..
   ### Name -  Jyoti kakasaheb Gaikwad
   ### Project Title - Corporate Business Website.
   ### Project Demo Link :
