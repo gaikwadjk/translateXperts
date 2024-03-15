@@ -32,30 +32,27 @@
  ## Future Enhancement :
    #### The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.
 
- 
-   
+# Core Azure Services
+ ## Azure App Service :
+  #### The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.
 
+# Azure MySQL Dtatabase :
+  #### To store and manage recent search history, the project employs Azure SQL Database. This relational database service ensures data consistency, integrity, and enables efficient querying, making it ideal for tracking and displaying user interactions.
 
- # Screenshot :
-   ## vnet :
- ![vnet](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/45f2d78e-7745-41f0-acd2-bfdd901f4eed)
-   ## virtual machine :
-  ![vm](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/2a0d9bad-2baa-4c2e-a754-c10756c36e26)
-   ## container registry :
-   ![container registry](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/10a03c7d-a722-4ca8-92d5-f80cc5aa8739)
-   ## container instance :
-   ![container instance](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/469e7c0e-6719-46f9-927a-a84cc2c360e8)
-   ## website home page :
-   ![home](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/543f81c5-f4aa-4b10-9f7f-5d06593d50d9)
-   ## website about page :
-   ![about](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/7bca68f7-4547-4128-bd89-8d5360539d9d)
-   ## website service page :
-   ![services](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/382d460b-aba8-4755-8bbf-ff723f2db320)
-   ## website contact page :
-   ![contact](https://github.com/gaikwadjk/KoDeal-project/assets/152171452/d95e742a-abe2-45ee-8f1b-3512f7f10767)
+# Azure AI Service
+ ## Azure AI Translator Service :
+  #### The core of the translation functionality is powered by Azure AI Translator service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.
 
+# Other Azure Technologies / Services
+  #### In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.
 
-   https://github.com/AnkeetaGupta/flask-ai-translation/
+ ## Azure Monitor :
+ ### Real-time Performance Metrics : Monitors vital overall performance indicators, ensuring the application runs seamlessly.
+Proactive Alerts : Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.
+
+ ## Azure Application Insights :
+ ### User Interaction Insights : Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
+ ### Diagnostics Precision : Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
 
 
 
