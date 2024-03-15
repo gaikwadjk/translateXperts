@@ -6,9 +6,16 @@
   ### Project Video Demo Link :
    <a href="https://drive.google.com/file/d/1Qlm1YOdI-j2snbl-EM8FGMb-DodVUjVE/view?usp=drive_link/">https://drive.google.com/file/d/1Qlm1YOdI-j2snbl-EM8FGMb-DodVUjVE/view?usp=drive_link</a>
   ### Github Repository URL : https://github.com/gaikwadjk/translateXperts.git
+  ### Industry : Lifestyle and Technology
+  
 
+# Azure Services Used :
+ ## core azure services:
+ ## 1.Azure App service
+ ## 2.Azure SQL Database
 
-# Aim of Project :
+ ## Azure AI Service
+ ## 1.Azure AI Translator Service
   ### The aim of this project was Our corporate business website is designed to showcase the cutting-edge solutions and services that industy landscape.
 # Project Description :
    #### The website has 4 sections about the business.
