@@ -47,13 +47,21 @@
   #### In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.
 
  ## Azure Monitor :
- ### Real-time Performance Metrics : Monitors vital overall performance indicators, ensuring the application runs seamlessly.
-Proactive Alerts : Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.
+ ### Real-time Performance Metrics : Monitors vital overall performance indicators, ensuring the application runs seamlessly. 
+ ### Proactive Alerts : Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.
 
  ## Azure Application Insights :
- ### User Interaction Insights : ## Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
+ ### User Interaction Insights : Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
  ### Diagnostics Precision : Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
+ 
+# Screenshots
 
+ ## Azure App Service
+ ### Description:
+ #### Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.
+
+ 
+ 
 
 
 
