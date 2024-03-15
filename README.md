@@ -51,7 +51,7 @@
 Proactive Alerts : Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.
 
  ## Azure Application Insights :
- ### User Interaction Insights : Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
+ ### User Interaction Insights : ## Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.
  ### Diagnostics Precision : Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
 
 
