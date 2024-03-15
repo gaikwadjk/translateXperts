@@ -10,9 +10,9 @@
   
 
 # Azure Services Used :
-  ## core azure services:
-  ## 1.Azure App service
-  ## 2.Azure SQL Database
+  ### core azure services:
+  ### 1.Azure App service
+  ### 2.Azure SQL Database
 
  ## Azure AI Service
  ## 1.Azure AI Translator Service
