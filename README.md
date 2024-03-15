@@ -10,12 +10,12 @@
   
 
 # Azure Services Used :
-  ### core azure services:
+  ## core azure services:
   ### 1.Azure App service
   ### 2.Azure SQL Database
 
  ## Azure AI Service
- ## 1.Azure AI Translator Service
+ ### 1.Azure AI Translator Service
   ### The aim of this project was Our corporate business website is designed to showcase the cutting-edge solutions and services that industy landscape.
 # Project Description :
    #### The website has 4 sections about the business.
