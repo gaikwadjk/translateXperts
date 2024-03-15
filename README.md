@@ -16,21 +16,21 @@
 
  ## Azure AI Service
   ### 1.Azure AI Translator Service
-   ### The aim of this project was Our corporate business website is designed to showcase the cutting-edge solutions and services that industy landscape.
+
 # Problem Statement :
    ####  In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.
 # Project Description  
    #### The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.
    
  ## Key features :
-  ### 1.Seamless Language Translation 
-  ### 2.User-friendly interface
-  ### 3.History Tracking and Recent Searches
-  ### 4.Azure App services hosting
-  ### 5.Azure SQL Database for Efficient Data Management
+   #### 1.Seamless Language Translation 
+   #### 2.User-friendly interface
+   #### 3.History Tracking and Recent Searches
+   #### 4.Azure App services hosting
+   #### 5.Azure SQL Database for Efficient Data Management
 
  ## Future Enhancement :
-  ### The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.
+   #### The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.
 
  
    
