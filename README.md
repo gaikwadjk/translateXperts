@@ -17,19 +17,23 @@
  ## Azure AI Service
  ### 1.Azure AI Translator Service
   ### The aim of this project was Our corporate business website is designed to showcase the cutting-edge solutions and services that industy landscape.
-# Project Description :
-   #### The website has 4 sections about the business.
-   ####  1. Home : it contains Action,brand ,success,ourstory, and We Are A Young And Creative Company & we offer you fresh ideas.
-   #### 2. About : the about page displays all information related to our business what we do (our mission,vision ,values) ,who we are.
-   #### 3. Services : My service it will display the information of related to the services which will offered, how we do it and why to choose us
-   #### 4. Contact : It will display contact information email,phone number ,etc.
-# Language used : 
-   ## Frontend CSS,HTML,Javascript,cloud services.
-# Azure Services :
-   #### 1. Docker : it containerized my website using Docker to encapsulate the website's components,ensuring consistency across different envionments.docker simplifies the deployment process and minimizes potential conflicts by packaging the application and its dependence into a standaredized unit.
-   #### 2. Azure Container Registry(ACR) : To store and manage Docker images,i utilized Azure container registry.ACR provides a secure and scalable solution for storing container images,enabling seamless integration with azure sevices.
-   #### 3. Azure Virtual Machines : I utilized azure VMs to host and run my portfolio website. azure VMs provide a scalable and customizable infrasrtucture solution,allowing me to configure and manage virtual machines based on the specific needs of my application.
-   #### 4. Azure cognitive services : computer vision i implemented the computer vision service from azure cognitive services to add powerful image analysis capabilities to my portfolio website this service uses state of the art machine learning models to analyze and interpret visual content in images.
+# Problem Statement :
+   ####  In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.
+# Project Description  
+   #### The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.
+   
+ ## Key features :
+ ### 1.Seamless Language Translation 
+ ### 2.User-friendly interface
+ ### 3.History Tracking and Recent Searches
+ ### 4.Azure App services hosting
+ ### 5.Azure SQL Database for Efficient Data Management
+
+ ## Future Enhancement :
+ ### The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.
+
+ 
+   
 
 
  # Screenshot :
