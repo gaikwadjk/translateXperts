@@ -2,7 +2,7 @@
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 # More info on Python, GitHub Actions, and Azure App Service: https://aka.ms/python-webapps-actions
 
-name: Build and deploy Python app to Azure Web App - TranslateXpert
+name: Build and deploy Python app to Azure Web App - translatexpert
 
 on:
   push:
@@ -20,7 +20,7 @@ jobs:
       - name: Set up Python version
         uses: actions/setup-python@v1
         with:
-          python-version: '3.12'
+          python-version: '3.10'
 
       - name: Create and start virtual environment
         run: |
@@ -65,14 +65,14 @@ jobs:
       - name: Login to Azure
         uses: azure/login@v1
         with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_21D7A1D47A58491F92659F35A8687DE3 }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_860A74C21D94470FBD7C44BA08CCD6F3 }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_1F709F7879CA45A3B19B596093E26944 }}
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_2879EE70C94043DB8FEE8887D9392D4B }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_DE9D17A4FCF5479FA5F6BCD81C681CE7 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_5E9E626B653341868ADDC15AB1853E92 }}
 
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'TranslateXpert'
+          app-name: 'translatexpert'
           slot-name: 'Production'
           
