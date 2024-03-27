@@ -67,9 +67,25 @@
   ### The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.
 
  
+  ![azurSe database for mysql](https://github.com/gaikwadjk/translateXperts/assets/152171452/85f62019-d7b0-447d-9c50-e12935beb10f)
+
+## Azure AI Translator Service
+  ### Description :
+  ### Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.
+
+![azure ai translator service](https://github.com/gaikwadjk/translateXperts/assets/152171452/8607c986-3b10-41ca-ba3d-4d41c35ca0ca)
+
+## Working Live Project Display
+  ### Description :
+  ### Here I am attaching the final working website's screenshot for the reference.
+![live ](https://github.com/gaikwadjk/translateXperts/assets/152171452/b43ec22d-b519-4773-8e58-471a6dc67fb3)
 
 
 
+## Final Project Statement
+  ### translateXperts translational web app redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.
+
+  ### As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.
 
   
    
