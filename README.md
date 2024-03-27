@@ -60,7 +60,12 @@
  ### Description:
  #### Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.
 
- 
+   ![azure app sevice](https://github.com/gaikwadjk/translateXperts/assets/152171452/1b390ef0-c347-4d25-bc6a-7080229cee64)
+
+ ## Azure Databse for MySQL
+  ### Description :
+  ### The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.
+
  
 
 
