@@ -4,7 +4,7 @@
   ### Project Demo Link :
    <a href="https://translatexpert.azurewebsites.net/">https://translatexpert.azurewebsites.net/</a>
   ### Project Video Demo Link :
-   <a href="https://drive.google.com/file/d/1Qlm1YOdI-j2snbl-EM8FGMb-DodVUjVE/view?usp=drive_link/">https://drive.google.com/file/d/1Qlm1YOdI-j2snbl-EM8FGMb-DodVUjVE/view?usp=drive_link</a>
+   <a href="https://drive.google.com/file/d/16eNIlbICTyvy8GjmPgraJpRyE4SFUI6I/view?usp=drivesdk">https://drive.google.com/file/d/1Qlm1YOdI-j2snbl-EM8FGMb-DodVUjVE/view?usp=drive_link</a>
   ### Github Repository URL : https://github.com/gaikwadjk/translateXperts.git
   ### Industry : Lifestyle and Technology.
   
